@@ -1,6 +1,7 @@
 # (주)원더플레이스 클론코딩
-
-<img src="https://github.com/user-attachments/assets/97f86a88-31b7-44c5-8c21-98fef2532508">
+<a src="https://kimhyeoonju.github.io/clone-wp/">
+  <img src="https://github.com/user-attachments/assets/97f86a88-31b7-44c5-8c21-98fef2532508">
+</a>
 
 ## 정보
 
@@ -8,6 +9,22 @@
 - 전체 리소스(이미지 등은) 원저작자에게 있습니다.
 - 문제 발생시 연락주시면 즉시 삭제하겠습니다.
 - 원사이트 : https://www.wonderplace.com
+
+<br/>
+
+## 프로젝트 페이지
+
+<a src="https://kimhyeoonju.github.io/clone-wp/">
+  <h1>
+    프로젝트 페이지 바로가기
+</h1>
+ 
+</a>
+  [바로가기](https://kimhyeoonju.github.io/clone-wp/)
+
+<h1>
+</h1>
+
 
 ## 개선사항
 
