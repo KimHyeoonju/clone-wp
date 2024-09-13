@@ -1,5 +1,5 @@
 # (주)원더플레이스 클론코딩
-<a src="https://kimhyeoonju.github.io/clone-wp/">
+<a href="https://kimhyeoonju.github.io/clone-wp/">
   <img src="https://github.com/user-attachments/assets/97f86a88-31b7-44c5-8c21-98fef2532508">
 </a>
 
@@ -14,7 +14,7 @@
 
 ## 프로젝트 페이지
 
-<a src="https://kimhyeoonju.github.io/clone-wp/">
+<a href="https://kimhyeoonju.github.io/clone-wp/">
   <h1>
     프로젝트 페이지 바로가기
 </h1>
