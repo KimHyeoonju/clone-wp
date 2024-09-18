@@ -25,7 +25,6 @@
 ## 개선사항
 
 - 코드 최적화
-- Vanila Scripit 적용
 
 <br/>
 
@@ -34,10 +33,4 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/AOS.js-764ABC?style=for-the-badge&logo=AOS.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Anime.js-181717?style=for-the-badge&logo=Anime.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Swiper-6332F6?logo=swiper&logoColor=fff&style=for-the-badge">
 </div>
